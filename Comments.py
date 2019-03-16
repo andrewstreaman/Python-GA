@@ -1,3 +1,6 @@
+to_address = "70 Pine Street, New York, New York, 10005"
+
+print('Start walk from class to ',to_address)
 print('Exit Classroom')
 print('Enter stairwell')
 print('Walk downstairs')
@@ -10,3 +13,7 @@ print('When elevator door opens to the first floor, exit')
 print('Walk towards door leading to the sidewalk')
 print('Open door')
 print('Step outside and turn to the right')
+
+
+
+
